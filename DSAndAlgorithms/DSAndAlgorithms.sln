@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSAndAlgorithms", "DSAndAlgorithms.csproj", "{6CC6DB14-5F46-40EC-918A-1397CC386430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC6DB14-5F46-40EC-918A-1397CC386430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC6DB14-5F46-40EC-918A-1397CC386430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC6DB14-5F46-40EC-918A-1397CC386430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC6DB14-5F46-40EC-918A-1397CC386430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA9322F-E7E0-4054-81CE-EE14F604A4EE}
+	EndGlobalSection
+EndGlobal
